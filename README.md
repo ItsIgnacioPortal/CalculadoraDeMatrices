@@ -1,4 +1,4 @@
-# calculadora-de-matrices
+# Calculadora de Matrices
 Un "simple" programa, para hacer diferentes operaciones con matrices.
 
 
