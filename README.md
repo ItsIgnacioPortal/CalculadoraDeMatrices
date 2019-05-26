@@ -2,6 +2,11 @@
 Un "simple" programa, para hacer diferentes operaciones con matrices.
 
 
+# COMPILACION
+
+Debes editar las ubicaciones de los demas archivos en el archivo "AsistenteDeMatrices.cpp"
+
+
 <h2>Operaciones disponibles</h2>
 <ul>
 	<li>Calcular la matriz Transpuesta</li>
