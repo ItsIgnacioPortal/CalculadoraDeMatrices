@@ -2,7 +2,7 @@
 Un "simple" programa, para hacer diferentes operaciones con matrices.
 
 
-<h2>Opeariciones disponibles</h2>
+<h2>Operaciones disponibles</h2>
 <ul>
 	<li>Calcular la matriz Transpuesta</li>
 	<li>Calcular el determinante de la matriz</li>
