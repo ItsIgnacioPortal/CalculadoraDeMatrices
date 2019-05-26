@@ -1,0 +1,18 @@
+
+1 - Conseguir determinante de la matriz.
+2 - Guardar matriz transpuesta en matriz_transpuesta.
+3 - Calcular y guardar la adyacente de matriz_transpuesta en matriz_adjunta.
+4 - Crear matriz_inversa y guardar en ella los resultados de las divisiones
+5 - Mostrar esta nueva matriz en pantalla.
+6 - Borrar todas las matrizes.
+
+
+Propuesta para calcular la adyacente:
+ 
+ Guardar espacio en memoria para una nueva matriz auxiliar de 2x2
+
+ Reemplazar todos los elementos "no deseados" con el numero 2147483646
+ Luego crear una matriz de 2x2 que se conforme de los elementos que NO sean "2147483646"
+ Despues calcular el determinante de esa matriz y guardarlo en "determinante"
+ Luego reiniciar la matriz auxiliar
+
